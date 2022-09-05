@@ -1,12 +1,7 @@
-## Hi there 👋
+# Websites I manage
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Discord bots
+[![botbadi](https://top.gg/api/widget/753718230333522131.svg)](https://botbadi.ml)
+[![BossBeats](https://top.gg/api/widget/777687606817062972.svg)](https://bossbeats.ml)
+[![NumericBoss](https://top.gg/api/widget/778450224904536067.svg)](https://numericboss.ml)
+[![ImageBoss](https://top.gg/api/widget/800542737236754443.svg)](https://imageboss.ml)
